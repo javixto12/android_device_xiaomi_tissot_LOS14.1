@@ -1,0 +1,1 @@
+# android_device_xiaomi_tissot_LOS14.1
